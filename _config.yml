@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "idMidMid|Think Different"  baseurl: ""
+      author: "MidMidMid|Think Different"  baseurl: ""
 url: "http://MidMidMid.github.io"  
 
 # About/contact
