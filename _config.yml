@@ -96,9 +96,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : MidMidMid
   disqus :
-      short_name : idMidMid|Think Different"  baseurl: ""
+      short_name :MidMidMid|Think Different"  baseurl: ""
 url: "http://MidMidMid.github.io"  
 
 # About/contact
